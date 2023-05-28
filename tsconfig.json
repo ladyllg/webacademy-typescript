@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "target":"ES6",
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "rootDir": "./src",
+    "experimentalDecorators": true
+  },
+}
